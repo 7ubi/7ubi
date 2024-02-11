@@ -1,6 +1,6 @@
 # About Me [![](https://visitcount.itsvg.in/api?id=7ubi&icon=2&color=3)](https://visitcount.itsvg.in)
 
-🎓 Studying Computer Science @ University of Applied Sciences Darmstadt<br>⚙  Working at Capgemini as Dual Student / Software Developerr<br>🔭 I’m currently working on Kurswahl 2<br>🌱 I’m currently continuing learning Spring Boot and Angular<br>
+🎓 Studying Computer Science @ University of Applied Sciences Darmstadt<br>⚙  Working at Capgemini as Dual Student / Software Developer<br>🔭 I’m currently working on Kurswahl 2<br>
 
 
 
